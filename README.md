@@ -2,6 +2,12 @@
 
 You can access to method and constructor of super class like Java.
 
+## Install
+
+```sh
+npm install superclass
+```
+
 ## Initalize
 
 node:
