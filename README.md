@@ -1,6 +1,6 @@
 # jssuper
 
-You can access to method and constructor of super class like Java.
+You can call method and constructor of super class like Java.
 
 ## Install
 
@@ -21,7 +21,7 @@ web:
 
 ## Usage
 
-Access to constructor:
+Call constructor:
 
     function A(message) {
         this.message = message;
@@ -32,7 +32,7 @@ Access to constructor:
     }
     B.prototype = Object.create(A.prototype);
 
-Access to method:
+Call method:
 
     A.prototype.foo = function() {
         return '#' + this.message + '#';
