@@ -5,10 +5,12 @@ You can access to method and constructor of super class like Java.
 ## Initalize
 
 node:
+
     //add option "--harmony_proxies"
     require('super');
 
 web:
+
     <script src="path/to/super.js"></script>
 
 ## Usage
