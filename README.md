@@ -16,6 +16,7 @@ web:
 ## Usage
 
 Access to constructor:
+
     function A(message) {
         this.message = message;
     }
@@ -26,6 +27,7 @@ Access to constructor:
     B.prototype = Object.create(A.prototype);
 
 Access to method:
+
     A.prototype.foo = function() {
         return '#' + this.message + '#';
     };
