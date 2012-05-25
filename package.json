@@ -1,5 +1,5 @@
 {
-    "name": "super",
+    "name": "superclass",
     "version": "0.1.0",
     "description": "Access to super method and constructor like Java.",
     "author": "Syu Kato <ukyo.web@gmail.com>",
@@ -13,8 +13,8 @@
     "licenses": [
         {
             "type": "Apache License 2.0",
-            "url": "http://github.com/ukyo/jssuper"
+            "url": "http://github.com/ukyo/jssuper/LICENSE"
         }
     ],
-    "main": "./super"
+    "main": "./superclass"
 }

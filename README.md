@@ -7,11 +7,11 @@ You can access to method and constructor of super class like Java.
 node:
 
     //add option "--harmony_proxies"
-    require('super');
+    require('superclass');
 
 web:
 
-    <script src="path/to/super.js"></script>
+    <script src="path/to/superclass.js"></script>
 
 ## Usage
 
