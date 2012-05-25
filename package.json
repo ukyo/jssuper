@@ -1,0 +1,20 @@
+{
+    "name": "super",
+    "version": "0.1.0",
+    "description": "Access to super method and constructor like Java.",
+    "author": "Syu Kato <ukyo.web@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/ukyo/jssuper"
+    },
+    "bugs": {
+        "web": "http://github.com/ukyo/jssuper/issues"
+    },
+    "licenses": [
+        {
+            "type": "Apache License 2.0",
+            "url": "http://github.com/ukyo/jssuper"
+        }
+    ],
+    "main": "./super"
+}
